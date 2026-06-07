@@ -1,0 +1,179 @@
+{
+    "results": [
+        {
+            "nama": "POS Indonesia (POS)",
+            "kode": "pos",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Lion Parcel (LION)",
+            "kode": "lion",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Ninja Xpress (NINJA)",
+            "kode": "ninja",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "ID Express (IDE)",
+            "kode": "ide",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "SiCepat Express (SICEPAT)",
+            "kode": "sicepat",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "SAP Express (SAP)",
+            "kode": "sap",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Nusantara Card Semesta (NCS)",
+            "kode": "ncs",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "AnterAja (ANTERAJA)",
+            "kode": "anteraja",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Royal Express Indonesia (REX)",
+            "kode": "rex",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "JTL Express (JTL)",
+            "kode": "jtl",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Sentral Cargo (SENTRAL)",
+            "kode": "sentral",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Jalur Nugraha Ekakurir (JNE)",
+            "kode": "jne",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Citra Van Titipan Kilat (TIKI)",
+            "kode": "tiki",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "RPX Holding (RPX)",
+            "kode": "rpx",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Pandu Logistics (PANDU)",
+            "kode": "pandu",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Wahana Prestasi Logistik (WAHANA)",
+            "kode": "wahana",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "J&T Express (J&T)",
+            "kode": "j&t",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Pahala Kencana Express (PAHALA)",
+            "kode": "pahala",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Solusi Ekspres (SLIS)",
+            "kode": "slis",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Expedito* (EXPEDITO)",
+            "kode": "expedito",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "0",
+            "is_active": "1"
+        },
+        {
+            "nama": "Rayspeed* (RAY)",
+            "kode": "ray",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "21 Express (DSE)",
+            "kode": "dse",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "First Logistics (FIRST)",
+            "kode": "first",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "Star Cargo (STAR)",
+            "kode": "star",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        },
+        {
+            "nama": "IDL Cargo (IDL)",
+            "kode": "idl",
+            "is_cek_ongkir": "1",
+            "is_cek_resi": "1",
+            "is_active": "1"
+        }
+    ]
+}
